@@ -1,0 +1,54 @@
+{
+  "app": {
+    "title": "TrackLife",
+    "subtitle": "Daily Tasks and Habits Tracking App"
+  },
+  "progress": {
+    "overall": "Overall Progress",
+    "completed": "completed",
+    "of": "of",
+    "task": "task",
+    "tasks": "tasks"
+  },
+  "categories": {
+    "work": "Work",
+    "personal": "Personal",
+    "study": "Study",
+    "health": "Health",
+    "home": "Home"
+  },
+  "addTask": {
+    "title": "Add New Task",
+    "taskName": "Task Name",
+    "placeholder": "Enter new task...",
+    "category": "Category",
+    "reminderTime": "Reminder Time (optional)",
+    "addButton": "Add Task"
+  },
+  "filter": {
+    "title": "Filter Tasks",
+    "all": "All"
+  },
+  "taskList": {
+    "allTasks": "All Tasks",
+    "categoryTasks": "Tasks",
+    "noTasks": "No tasks currently",
+    "startAdding": "Start by adding a new task!"
+  },
+  "deleteConfirm": {
+    "title": "Confirm Delete",
+    "message": "Are you sure you want to delete this task?",
+    "delete": "Delete",
+    "cancel": "Cancel"
+  },
+  "notifications": {
+    "title": "Task Reminder",
+    "timeFor": "Time for:"
+  },
+  "language": {
+    "switch": "Switch Language",
+    "arabic": "العربية",
+    "english": "English"
+  }
+}
+

@@ -1,0 +1,54 @@
+{
+  "app": {
+    "title": "TrackLife",
+    "subtitle": "تطبيق تتبع المهام والعادات اليومية"
+  },
+  "progress": {
+    "overall": "التقدم العام",
+    "completed": "مكتملة",
+    "of": "من",
+    "task": "مهمة",
+    "tasks": "مهام"
+  },
+  "categories": {
+    "work": "عمل",
+    "personal": "شخصي",
+    "study": "دراسة",
+    "health": "صحة",
+    "home": "منزل"
+  },
+  "addTask": {
+    "title": "إضافة مهمة جديدة",
+    "taskName": "اسم المهمة",
+    "placeholder": "أدخل المهمة الجديدة...",
+    "category": "التصنيف",
+    "reminderTime": "وقت التذكير (اختياري)",
+    "addButton": "إضافة المهمة"
+  },
+  "filter": {
+    "title": "تصفية المهام",
+    "all": "الكل"
+  },
+  "taskList": {
+    "allTasks": "جميع المهام",
+    "categoryTasks": "مهام",
+    "noTasks": "لا توجد مهام حالياً",
+    "startAdding": "ابدأ بإضافة مهمة جديدة!"
+  },
+  "deleteConfirm": {
+    "title": "تأكيد الحذف",
+    "message": "هل أنت متأكد من أنك تريد حذف هذه المهمة؟",
+    "delete": "حذف",
+    "cancel": "إلغاء"
+  },
+  "notifications": {
+    "title": "تذكير مهمة",
+    "timeFor": "حان وقت:"
+  },
+  "language": {
+    "switch": "تبديل اللغة",
+    "arabic": "العربية",
+    "english": "English"
+  }
+}
+
