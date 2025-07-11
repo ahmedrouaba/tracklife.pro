@@ -1,10 +1,8 @@
 // خدمة API للتواصل مع الواجهة الخلفية
 class ApiService {
   constructor() {
-    // يمكن تغيير هذا الرابط حسب بيئة النشر
-    this.baseURL = process.env.NODE_ENV === 'production' 
-      ? '/api'  // في الإنتاج، سيكون API في نفس النطاق
-      : 'http://localhost:5000/api'; // في التطوير
+    // رابط الواجهة الخلفية المنشورة بشكل منفصل
+    this.baseURL = 'https://mzhyi8cnqo0z.manus.space/api';
     
     this.userId = this.getUserId();
   }
